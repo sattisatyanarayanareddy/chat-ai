@@ -1,0 +1,6 @@
+first get the api key from gemini apistudio
+
+next create a vite project
+
+now install axios, help to fetch the apis
+npm i axios
