@@ -19,6 +19,11 @@ The **Chatbot GenAI** project is a conversational AI chatbot built using **Googl
 - **React Frontend**: The frontend is built with React for a responsive and smooth user interface.
 - **Fast Development**: Vite is used for quicker builds and live reloading during development.
 - **Secure API Key Handling**:  This project design emphasizes the critical need for a backend to protect your Gemini API key.
+**output Images**
+  ![Screenshot 2025-02-18 073253](https://github.com/user-attachments/assets/cc7d6475-fdd6-4a1f-885f-28bd1889242c)
+  
+![Screenshot 2025-02-18 073328](https://github.com/user-attachments/assets/39c8d0c5-3873-44bb-bd33-86aa67b7b555)
+
 
 ## Setup Instructions
 
